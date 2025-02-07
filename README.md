@@ -4,4 +4,4 @@
 
 Backend: Java, Spring Boot, REST APIs
 
-Frontend:HTML,CSS,JavaScript
+Frontend: HTML,CSS,JavaScript
